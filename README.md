@@ -53,13 +53,13 @@ But I like to do some projects on Jupyter Notebook and solve some math problems 
 
 <div>
     <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=aeristhy&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=J3xLe1988B3lx0x2E6&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=aeristhy&theme=onedark&hide_border=true"/>
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=J3xLe1988B3lx0x2E6&theme=onedark&hide_border=true"/>
     </a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=aeristhy&row=4&theme=onedark&no-frame=true"/>
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=J3xLe1988B3lx0x2E6&row=4&theme=onedark&no-frame=true"/>
     </a>    
     </a>
 </div>
@@ -94,5 +94,5 @@ most used social media :v 🌐</p>
 
 <br>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arunsridher&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=J3xLe1988B3lx0x2E6&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 <hr>
