@@ -64,6 +64,7 @@ But I like to do some projects on Jupyter Notebook and solve some math problems 
     </a>
 </div>
 <br>
+
 - 🌱 I’m currently learning **C++, Ruby, C#, Python, Kali Linux.**
 
 - 👯 I’m looking to collaborate on **Machine Learning.**
