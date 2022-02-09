@@ -17,6 +17,15 @@
 </li>
 <li>
 <b>Loves:</b> 中野五月 (Nakano Itsuki) (❤️ ω ❤️), Videogames 🎮, To play my piano 🎹
+<li>
+<b>Favourite song:</b> Sweeter than wine by NCW. <img src ="https://scontent.fmex11-2.fna.fbcdn.net/v/t1.6435-9/101824407_10156966125156556_3284867446988603392_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=moewKQLe8D0AX-r4SEq&_nc_ht=scontent.fmex11-2.fna&oh=00_AT879DzEz5npKBvKb6pRghwJnbjufeGQVT6fiSmkWSey1A&oe=6227A4BD" width="25px"/>
+</li>
+<li>
+<b>Favourite equation:</b> Fourier transform. 
+<img src = "https://soulofmathematics.com/wp-content/uploads/2020/08/DeadSpitefulBluewhale-max-1mb.gif" align = "left
+" width="400"/>
+</li>
+<div align="right">
 </li>
 <li>
 <b>Gender:</b> He/his.
@@ -24,14 +33,7 @@
 <li>
 <b>Hobbys:</b> Learning Python, C, C++, Kali Linux.🐉
 </li>
-<li>
-<b>Favourite song:</b> Sweeter than wine by NCW. <img src ="https://scontent.fmex11-2.fna.fbcdn.net/v/t1.6435-9/101824407_10156966125156556_3284867446988603392_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=moewKQLe8D0AX-r4SEq&_nc_ht=scontent.fmex11-2.fna&oh=00_AT879DzEz5npKBvKb6pRghwJnbjufeGQVT6fiSmkWSey1A&oe=6227A4BD" width="25px"/>
-</li>
-<li>
-<b>Favourite equation:</b> Fourier transform. 
-<img src = "https://soulofmathematics.com/wp-content/uploads/2020/08/DeadSpitefulBluewhale-max-1mb.gif" align = "left
-"/>
-</li>
+</div>
 <br>
 <p align="right"><b>     Thank you my friend <br>
                   友達どうもありがとうございました。</b></p>
@@ -78,7 +80,7 @@ But I like to do some projects on Jupyter Notebook and solve some math problems 
 <h2 align ="center">           📝 Contact me 📝</h2>
 <img src="https://pa1.narvii.com/6858/e1713b1d5e8d18df8b545ef5d3bfbaddc64dd26d_hq.gif" align="right" width="250" >
 <br>
-<p align="center">Here are some of my <br>
+<p align="center">Hewe awe some of my <br>
 most used social media :v 🌐</p>
 <p align="center"><a href="https://twitter.com/johnwilliambn" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> <a href="https://www.linkedin.com/in/juan-ang-1307191b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
 </div>
