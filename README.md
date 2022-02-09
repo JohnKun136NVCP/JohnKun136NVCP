@@ -37,7 +37,7 @@
                   友達どうもありがとうございました。</b></p>
 </div>
 <div>
-<h2 align="left">             🔎*Knowledge*📖 </h2>
+<h2 align="center">             🔎Knowledge📖 </h2>
 <p>
 <img src="https://c.tenor.com/r2YVvavkOI8AAAAC/princess-connect-re-dive-anime.gif" align="right" width="300">
 </div>
