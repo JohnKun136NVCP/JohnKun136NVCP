@@ -33,7 +33,7 @@
 "/>
 </li>
 <br>
-<p><b>     Thank you my friend <br>
+<p align="right"><b>     Thank you my friend <br>
                   友達どうもありがとうございました。</b></p>
 </div>
 <div>
@@ -64,8 +64,6 @@ But I like to do some projects on Jupyter Notebook and solve some math problems 
     </a>
 </div>
 <br>
-<p align="left"> <a href="https://twitter.com/johnwilliambn" target="blank"><img src="https://img.shields.io/twitter/follow/johnwilliambn?logo=twitter&style=for-the-badge" alt="johnwilliambn" /></a> </p>
-
 - 🌱 I’m currently learning **C++, Ruby, C#, Python, Kali Linux.**
 
 - 👯 I’m looking to collaborate on **Machine Learning.**
@@ -77,7 +75,7 @@ But I like to do some projects on Jupyter Notebook and solve some math problems 
 - ⚡ Fun fact **I love math and music.**
 <div>
 <br>
-<h2>           📝 Contact me 📝</h2>
+<h2 align ="center">           📝 Contact me 📝</h2>
 <img src="https://pa1.narvii.com/6858/e1713b1d5e8d18df8b545ef5d3bfbaddc64dd26d_hq.gif" align="right" width="250" >
 <br>
 <p align="center">Hewe awe some of my <br>
