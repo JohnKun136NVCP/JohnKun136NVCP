@@ -25,7 +25,7 @@
 <b>Hobbys:</b> Learning Python, C, C++, Kali Linux.🐉
 </li>
 <li>
-<b>Favourite song:</b> Sweeter than wine by NCW. <img src ="https://scontent.fmex11-2.fna.fbcdn.net/v/t1.6435-9/101824407_10156966125156556_3284867446988603392_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=moewKQLe8D0AX-r4SEq&_nc_ht=scontent.fmex11-2.fna&oh=00_AT879DzEz5npKBvKb6pRghwJnbjufeGQVT6fiSmkWSey1A&oe=6227A4BD" width="25px"/>
+<b>Favourite song:</b> Sweeter than wine by NCW. <img src ="https://play-lh.googleusercontent.com/2kuUny_yytHsg_ogQb_xYKVSGFk_k_PMd_WJMicXxOjszpWOGYo5-iRcRGAGAe29i5A5" width="25px"/>
 </li>
 <li>
 <b>Favourite equation:</b> Fourier transform. 
