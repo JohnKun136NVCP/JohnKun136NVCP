@@ -49,17 +49,17 @@ But I like to do some projects on Jupyter Notebook and solve some math problems 
 
 
 
-## &#x1f4c8; GitHub Stats
+## 📉 GitHub Stats
 
 <div>
     <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=J3xLe1988B3lx0x2E6&theme=radical&custom_title=GitHub+Stats&hide_border=true"/>
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=J3xLe1988B3lx0x2E6&count_private=true&theme=algolia&show_icons=true&hide_border=true"/>
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=J3xLe1988B3lx0x2E6&theme=radical&hide_border=true"/>
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=J3xLe1988B3lx0x2E6&theme=algolia&hide_border=true&date_format=%5BY%20%5DM%20j"/>
     </a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=J3xLe1988B3lx0x2E6&row=4&column=7&theme=radical&no-frame=true"/>
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=J3xLe1988B3lx0x2E6&row=4&column=7&theme=algolia&no-frame=true"/>
     </a>    
     </a>
 </div>
