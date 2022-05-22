@@ -44,7 +44,7 @@
 
 <br>
 
-<p align="right"><a href = "https://www.youtube.com/watch?v=ziZX0vy8xAM"><img src = "https://i.ytimg.com/vi/ziZX0vy8xAM/maxresdefault.jpg" width = "150" align = "left"/></a><b>奏(かなで)CV:高橋李依とCV:雨宮天<br>
+<p align="right"><a href = "https://www.youtube.com/watch?v=ziZX0vy8xAM"><img src = "https://i.ytimg.com/vi/ziZX0vy8xAM/maxresdefault.jpg" width = "170" align = "left"/></a><b>奏(かなで)CV:高橋李依とCV:雨宮天<br>
                   🎵ふたりはいつもどんな時もつながっていける。🎵</b></p>
 
 </div>
