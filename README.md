@@ -30,6 +30,18 @@
 <li>
 <b>Favourite equation:</b> Fourier transform. 
 </li>
+<li>🌱 I’m currently learning <b>C++, Ruby, C#, Python, Kali Linux.</b>
+</li>
+<li>👯 I’m looking to collaborate on <b>Machine Learning.</b>
+</li>
+<li>🤝 I’m looking for help with <b>Data Science.</b>
+</li>
+<li>📫 How to reach me <b>@JohnWilliamBn</b>
+</li>
+<li>⚡ Fun fact </b>I love math and music.</b>
+</li>
+
+
 <br>
 
 <p align="right"><a href = "https://www.youtube.com/watch?v=ziZX0vy8xAM"><img src = "https://i.ytimg.com/vi/ziZX0vy8xAM/maxresdefault.jpg" width = "150" align = "left"/></a><b>奏(かなで)CV:高橋李依とCV:雨宮天<br>
@@ -42,14 +54,27 @@
 <div>
 <h2 align="center"> 🔎Knowledge📖 </h2>
 </div>
-<div>
-    
-
-<p align="left"><img src = "https://pa1.narvii.com/6676/28fc433fbc9f88242405a217ee62c0efad2b7a7f_hq.gif" width = "600" align = "right"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a><h3 align = "left"> But I like to do some projects on Jupyter Notebook and solve some math problems or sometimes I use Machine Learning for explaining easy examples of Data Science. I love the challenges because I try to think other possibilities to solve some problems using different programming languages.</h3></p>
+<div align = "center">
+<p align = "justify">I like to do some projects on Jupyter Notebook and solve some math problems or sometimes I use Machine Learning for explaining easy examples of Data Science. I love the challenges because I try to think other possibilities to solve some problems using different programming languages. <br></p>
+<p align = "center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />   
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="40" />  </p>
+<img src = "https://pa1.narvii.com/6676/28fc433fbc9f88242405a217ee62c0efad2b7a7f_hq.gif" width = "460" align="left">
 </div>
+
 <br>
 
-  <h2 align = "center">📉 GitHub Stats</h2>
+<h2 align = "center"> 📉 GitHub Stats</h2>
 <div>
 <p align = "center">
     <a href="https://github-readme-stats.vercel.app">
@@ -61,30 +86,32 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=J3xLe1988B3lx0x2E6&row=4&column=7&theme=algolia&no-frame=true"/>
     </a>    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J3xLe1988B3lx0x2E6&hide_border=true&theme=algolia&layout=compact" align="center" width = "49%" />
 </p>
 </div>
+<div align="center"></div>  
 <br>
 
-- 🌱 I’m currently learning **C++, Ruby, C#, Python, Kali Linux.**
-
-- 👯 I’m looking to collaborate on **Machine Learning.**
-
-- 🤝 I’m looking for help with **Data Science.**
-
-- 📫 How to reach me **Tmwhisperer@protonmail.ch**
-
-- ⚡ Fun fact **I love math and music.**
 
 <br>
-<div>
-<h2 align ="center">           📝 Contact me 📝</h2>
+
+<h2 align ="center"> 📝 Contact me 📝</h2>
 <br> 
-<p align = "right"><img src="https://pa1.narvii.com/6858/e1713b1d5e8d18df8b545ef5d3bfbaddc64dd26d_hq.gif" align="right" width="250" ></p>
+<div align="center">
+<a href="https://github.com/J3xLe1988B3lx0x2E6" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/JohnWilliamBn" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/juan-ang-1307191b0" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  <br><img src = "https://i.pinimg.com/originals/59/36/21/5936211051bd2b5b8d14442230a9f4b4.gif" width = "400"/>
+</div>  
 
-<p align="left">(～￣▽￣)～ my most used social media :v 🌐</p>
-<p align="left"><a href="https://twitter.com/johnwilliambn" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> <a href="https://www.linkedin.com/in/juan-ang-1307191b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
-</div>
 
+
+</div>  
 <br>
 <div>
 <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
