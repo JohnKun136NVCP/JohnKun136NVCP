@@ -31,11 +31,10 @@
 <b>Favourite equation:</b> Fourier transform. 
 <img src = "https://soulofmathematics.com/wp-content/uploads/2020/08/DeadSpitefulBluewhale-max-1mb.gif" align = "left
 "/>
-    <img src = "https://i.ytimg.com/vi/ziZX0vy8xAM/maxresdefault.jpg" width = "150" align = "right"/>
 </li>
 <br>
-
-<p align="right"><b>奏(かなで)CV:高橋李依とCV:雨宮天<br>
+<img src = "https://i.ytimg.com/vi/ziZX0vy8xAM/maxresdefault.jpg" width = "250" align = "right"/>
+<p align="left"><b>奏(かなで)CV:高橋李依とCV:雨宮天<br>
                   🎵ふたりはいつもどんな時もつながっていける。🎵</b></p>
 </div>
 <div>
@@ -43,16 +42,17 @@
 </div>
 <div>
     
-<p align = "right"><img src="https://pa1.narvii.com/6676/28fc433fbc9f88242405a217ee62c0efad2b7a7f_hq.gif" align="right" width="450"height = "250"></p>
+<p align = "right"><img src="https://pa1.narvii.com/6676/28fc433fbc9f88242405a217ee62c0efad2b7a7f_hq.gif" align="right" width="350"height = "250"></p>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a><br> But I like to do some projects on Jupyter Notebook and solve some math problems or sometimes I use Machine Learning for explaining easy examples of Data Science. I love the challenges because I try to think other possibilities to solve some problems using different programming languages.</p>
 
 </div>
-
+<br>
 
 
 ## 📉 GitHub Stats
 
 <div>
+<p>
     <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=J3xLe1988B3lx0x2E6&count_private=true&theme=algolia&show_icons=true&hide_border=true"/>
     </a>
@@ -62,6 +62,7 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=J3xLe1988B3lx0x2E6&row=4&column=7&theme=algolia&no-frame=true"/>
     </a>    
+</p>
 </div>
 <br>
 
@@ -78,12 +79,11 @@
 <br>
 <div>
 <h2 align ="center">           📝 Contact me 📝</h2>
- 
+<br> 
 <p align = "right"><img src="https://pa1.narvii.com/6858/e1713b1d5e8d18df8b545ef5d3bfbaddc64dd26d_hq.gif" align="right" width="250" ></p>
-<br>
-<p align="center">Hewe awe some of my <br>
-most used social media :v 🌐</p>
-<p align="center"><a href="https://twitter.com/johnwilliambn" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> <a href="https://www.linkedin.com/in/juan-ang-1307191b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
+
+<p align="left">(～￣▽￣)～ my most used social media :v 🌐</p>
+<p align="left"><a href="https://twitter.com/johnwilliambn" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> <a href="https://www.linkedin.com/in/juan-ang-1307191b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
 </div>
 
 <br>
