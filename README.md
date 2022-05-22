@@ -30,7 +30,8 @@
 <li>
 <b>Favourite equation:</b> Fourier transform. 
 </li>
-<img src = "https://i.ytimg.com/vi/ziZX0vy8xAM/maxresdefault.jpg" width = "250" align = "left"/>
+<br>
+<img src = "https://i.ytimg.com/vi/ziZX0vy8xAM/maxresdefault.jpg" width = "150" align = "left"/>
 <p align="right"><b>奏(かなで)CV:高橋李依とCV:雨宮天<br>
                   🎵ふたりはいつもどんな時もつながっていける。🎵</b></p>
 </div>
