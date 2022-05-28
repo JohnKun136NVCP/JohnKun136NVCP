@@ -115,11 +115,13 @@
 <br>
 <div>
 <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
-<div align="center">
-<img src="https://c.tenor.com/O097AH2p5EEAAAAC/nakano-itsuki-go-toubun-no-hanayome.gif">
-</div>
-
-<br>
-
+<div>
+<p>
+<img src="https://c.tenor.com/O097AH2p5EEAAAAC/nakano-itsuki-go-toubun-no-hanayome.gif" align="right" />
+<img src = "https://spotify-github-profile.vercel.app/api/view?uid=12174580645&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" align = "left" width="200px"/>
+   </p>
+  </div>
+<br> 
+  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=J3xLe1988B3lx0x2E6&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 <hr>
