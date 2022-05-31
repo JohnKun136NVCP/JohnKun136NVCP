@@ -69,7 +69,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="40" />  </p>
-<img src = "https://pa1.narvii.com/6676/28fc433fbc9f88242405a217ee62c0efad2b7a7f_hq.gif" width = "460" align="left">
+<img src = "https://pa1.narvii.com/6676/28fc433fbc9f88242405a217ee62c0efad2b7a7f_hq.gif" width = "460px" align="center">
 </div>
 
 <br>
