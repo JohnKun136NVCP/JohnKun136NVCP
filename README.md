@@ -127,8 +127,5 @@
 <hr>
 <hr>
 
-
-
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/J3xLe1988B3lx0x2E6/J3xLe1988B3lx0x2E6/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/J3xLe1988B3lx0x2E6/J3xLe1988B3lx0x2E6/output/github-contribution-grid-snake.svggh-light-mode-only)
