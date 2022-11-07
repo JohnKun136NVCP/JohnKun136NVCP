@@ -40,16 +40,26 @@
 </li>
 <li>⚡ Fun fact </b>I love math and music.</b>
 </li>
+<li><b> My Favourite singers</b>: 高橋李依 (Rie Takahashi) and  雨宮天 (Sora Amamiya). 🎤🎶🎼
+</li>
 
 
 <br>
 
 <p align="right"><a href = "https://www.youtube.com/watch?v=ziZX0vy8xAM"><img src = "https://i.ytimg.com/vi/ziZX0vy8xAM/maxresdefault.jpg" width = "170" align = "left"/></a><b>奏(かなで)CV:高橋李依とCV:雨宮天<br>
                   🎵ふたりはいつもどんな時もつながっていける。🎵</b></p>
-
-</div>
+<br>
 <br>
 
+<p align="left"><a href = "https://www.youtube.com/watch?v=oXlEEXws3gc"><img  src ="https://i.ytimg.com/vi/oXlEEXws3gc/maxresdefault.jpg" width="170" align="right"></a><b><br><br>高橋李依🎶「共感されなくてもいいじゃない」。🎶🆙</b></p>
+
+<br>
+<br>
+
+<p align="right"><a href="https://www.youtube.com/watch?v=jC97suFyObw"><img src="https://i.ytimg.com/vi/jC97suFyObw/maxresdefault.jpg" width="170" align="left"></a><b><br>雨宮天🎶「ロンリーナイト・ディスコティック」。🎶💌</b></p>
+<br>
+</div>
+<br>
 
 <div>
 <h2 align="center"> 🔎Knowledge📖 </h2>
