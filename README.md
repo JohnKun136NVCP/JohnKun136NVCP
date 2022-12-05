@@ -135,5 +135,40 @@
    </p>
   </div>
 <br> 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
   
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=J3xLe1988B3lx0x2E6&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+```zsh
+> neofetch
+```
+
+<img align="left" src="https://static.zerochan.net/Nakano.Itsuki.full.3124660.jpg" alt="NakanoItsuki" width="220" /> 
+
+```csharp
+thiagcordeirodantas@gmail.com
+-------------------------
+OS: Ubuntu 22.04.1 LTS
+Shell: Bash
+Pronouns: He/Him
+Location: Unknown 
+Languages: C\C++, Python
+Learning: Swift, Kotlin
+Hobbies: Gaming,Watching anime,Coding while I'm listening music
+Telegram: yoshimakayaba
+```
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  
+</p>
+
+
