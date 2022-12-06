@@ -157,7 +157,7 @@
 <img align="left" src="https://static.zerochan.net/Nakano.Itsuki.full.3124660.jpg" alt="NakanoItsuki" width="220" /> 
 
 ```csharp
-thiagcordeirodantas@gmail.com
+My Profile v2.0.0: 破壊
 -------------------------
 OS: Ubuntu 22.04.1 LTS
 Shell: Bash
