@@ -8,40 +8,36 @@
 
 
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
+
+```zsh
+> neofetch
+```
+
+<img align="left" src="https://user-images.githubusercontent.com/73410627/209483179-8621add5-6d08-4ed3-b932-743f0c5800cf.png" width="280px" height="" /> 
+
+```csharp
+My Profile v2.0.2: 破壊「はかい」
+-------------------------
+Username: John.
+OS: Ubuntu 22.04.1 LTS.
+Shell: Bash.
+Telegram: @yoshimakayaba.
+Favourite Anime: 五等分の花嫁 (The Quintessential Quintuplets)💒📕👰🏻
+Loves: 中野五月 (Nakano Itsuki) (❤️ ω ❤️), Videogames 🎮, To play my piano 🎹.
+Pronouns: He-Him.
+Location: Planet Kepler-452b.
+Languages: C,C++, Python.
+Hobbyes: Python, C, C++.
+Learning: Swift, Kotlin.
+Favourite song: Sweeter than wine by NCW.
+Favourite equation: Fourier transform. 
+Hobbies: Gaming,Watching anime,Coding 
+while I am listening music.
+My Favourite singers (アイドル):  高橋李依 (Rie Takahashi) and  雨宮天 (Sora Amamiya). 🎤🎶🎼
+
+```
 <div>
-<img src="https://64.media.tumblr.com/2fa5dacca8a4685afff346227bce1790/01f99305a860c82c-e3/s540x810/189aef4970d32c0e806cb62204c0be5b3591923e.gifv" align="right" width="400" >
-<li>
-<b>Name:</b> John</li>
-<li>
-<b>Favourite Anime:</b> Well, 五等分の花嫁 (The Quintessential Quintuplets)💒📕👰🏻
-</li>
-<li>
-<b>Loves:</b> 中野五月 (Nakano Itsuki) (❤️ ω ❤️), Videogames 🎮, To play my piano 🎹
-</li>
-<li>
-<b>Gender:</b> He/his.
-</li>
-<li>
-<b>Hobbys:</b> Learning Python, C, C++, Kali Linux.🐉
-</li>
-<li>
-<b>Favourite song:</b> Sweeter than wine by NCW. <img src ="https://play-lh.googleusercontent.com/2kuUny_yytHsg_ogQb_xYKVSGFk_k_PMd_WJMicXxOjszpWOGYo5-iRcRGAGAe29i5A5" width="25px"/>
-</li>
-<li>
-<b>Favourite equation:</b> Fourier transform. 
-</li>
-<li>🌱 I’m currently learning <b>C++, Ruby, C#, Python, Kali Linux.</b>
-</li>
-<li>👯 I’m looking to collaborate on <b>Machine Learning.</b>
-</li>
-<li>🤝 I’m looking for help with <b>Data Science.</b>
-</li>
-<li>📫 How to reach me <b>@JohnWilliamBn</b>
-</li>
-<li>⚡ Fun fact </b>I love math and music.</b>
-</li>
-<li><b> My Favourite singers</b>: 高橋李依 (Rie Takahashi) and  雨宮天 (Sora Amamiya). 🎤🎶🎼
-</li>
+
 
 
 <br>
@@ -139,38 +135,4 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-```zsh
-> neofetch
-```
-
-<img align="left" src="https://user-images.githubusercontent.com/73410627/209483179-8621add5-6d08-4ed3-b932-743f0c5800cf.png" width="220" /> 
-
-```csharp
-My Profile v2.0.0: 破壊
--------------------------
-OS: Ubuntu 22.04.1 LTS
-Shell: Bash
-Pronouns: He/Him
-Location: Unknown 
-Languages: C\C++, Python
-Learning: Swift, Kotlin
-Hobbies: Gaming,Watching anime,Coding while I'm listening music
-Telegram: yoshimakayaba
-```
-<p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  
-</p>
-
 
