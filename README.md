@@ -13,12 +13,13 @@
 > neofetch
 ```
 
-<img align="left" src="https://user-images.githubusercontent.com/73410627/209483179-8621add5-6d08-4ed3-b932-743f0c5800cf.png" width="280px" height="" /> 
+<img align="left" src="https://user-images.githubusercontent.com/73410627/209483179-8621add5-6d08-4ed3-b932-743f0c5800cf.png" width="300px" height="" /> 
 
 ```csharp
 My Profile v2.0.2: 破壊「はかい」
 -------------------------
 Username: John.
+Who am I: physicist and Computer Engineer. Also musician (more or less).
 OS: Ubuntu 22.04.1 LTS.
 Shell: Bash.
 Telegram: @yoshimakayaba.
