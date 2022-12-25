@@ -154,7 +154,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://static.zerochan.net/Nakano.Itsuki.full.3124660.jpg" alt="NakanoItsuki" width="220" /> 
+<img align="left" src="https://user-images.githubusercontent.com/73410627/209483179-8621add5-6d08-4ed3-b932-743f0c5800cf.png" width="220" /> 
 
 ```csharp
 My Profile v2.0.0: 破壊
