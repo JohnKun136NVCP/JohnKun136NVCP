@@ -13,7 +13,7 @@
 > neofetch
 ```
 
-<img align="left" src="img/itsukinakano.png" width="110px"/> 
+<img align="left" src="img/itsukinakano.png" width="140px"/> 
 
 ```csharp
 My Profile v2.0.2: 破壊「はかい」
