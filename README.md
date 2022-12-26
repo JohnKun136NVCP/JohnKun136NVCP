@@ -13,7 +13,7 @@
 > neofetch
 ```
 
-<img align="left" src="img/itsukinakano.png" width="170px"/> 
+<img align="left" src="img/itsukinakano.png" width="150px"/> 
 
 ```csharp
 My Profile v2.0.2: 破壊「はかい」
@@ -40,6 +40,7 @@ My Favourite singers (アイドル):  高橋李依 (Rie Takahashi) and  雨宮�
 
 
 <div>
+<br>
 <br>
 <br>
 <br>
