@@ -13,7 +13,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://user-images.githubusercontent.com/73410627/209483179-8621add5-6d08-4ed3-b932-743f0c5800cf.png" width="300px" height="" /> 
+<img align="left" src="img/itsukinakano.png" width="170px"/> 
 
 ```csharp
 My Profile v2.0.2: 破壊「はかい」
@@ -37,10 +37,12 @@ while I am listening music.
 My Favourite singers (アイドル):  高橋李依 (Rie Takahashi) and  雨宮天 (Sora Amamiya). 🎤🎶🎼
 
 ```
+
+
 <div>
-
-
-
+<br>
+<br>
+<br>
 <br>
 
 <p align="right"><a href = "https://www.youtube.com/watch?v=ziZX0vy8xAM"><img src = "https://i.ytimg.com/vi/ziZX0vy8xAM/maxresdefault.jpg" width = "170" align = "left"/></a><b>奏(かなで)CV:高橋李依とCV:雨宮天<br>
