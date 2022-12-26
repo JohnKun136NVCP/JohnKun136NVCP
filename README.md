@@ -44,7 +44,6 @@ My Favourite singers (アイドル):  高橋李依 (Rie Takahashi) and  雨宮�
 <br>
 <br>
 <br>
-<br>
 
 <p align="right"><a href = "https://www.youtube.com/watch?v=ziZX0vy8xAM"><img src = "https://i.ytimg.com/vi/ziZX0vy8xAM/maxresdefault.jpg" width = "170" align = "left"/></a><b>奏(かなで)CV:高橋李依とCV:雨宮天<br>
                   🎵ふたりはいつもどんな時もつながっていける。🎵</b></p>
