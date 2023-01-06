@@ -19,19 +19,19 @@
 My Profile v2.0.2: 破壊「はかい」
 -------------------------------
 Username: John.
-Who am I: physicist and Computer Engineer. Also musician (more or less).
+WhoamI: physicist and Computer Engineer. Also musician (more or less).
 OS: Ubuntu 22.04.1 LTS.
 Shell: Bash.
 Telegram: @yoshimakayaba.
-Favourite Anime: 五等分の花嫁 (The Quintessential Quintuplets)💒📕👰🏻
+FavouriteAnime: 五等分の花嫁 (The Quintessential Quintuplets)💒📕👰🏻
 Loves: 中野五月 (Nakano Itsuki) (❤️ ω ❤️), Videogames 🎮, To play my piano 🎹.
 Pronouns: He-Him.
 Location: Planet Kepler-452b.
 Languages: C,C++, Python.
 Hobbyes: Python, C, C++.
 Learning: Swift, Kotlin.
-Favourite song: Sweeter than wine by NCW.
-Favourite equation: Fourier transform. 
+FavouriteSong: Sweeter than wine by NCW.
+FavouriteEquation: Fourier transform. 
 Hobbies: Gaming,Watching anime,Coding 
 while I am listening music.
 My Favourite singers (アイドル):  高橋李依 (Rie Takahashi) and  雨宮天 (Sora Amamiya). 🎤🎶🎼
