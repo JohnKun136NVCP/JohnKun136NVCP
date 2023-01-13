@@ -87,15 +87,15 @@ My Favourite singers (アイドル):  高橋李依 (Rie Takahashi) and  雨宮�
 <div>
 <p align = "center">
     <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=J3xLe1988B3lx0x2E6&count_private=true&theme=algolia&show_icons=true&hide_border=true"/>
+        <img width="49%" alt="Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=J3xLe1988B3lx0x2E6&count_private=true&theme=algolia&show_icons=true&hide_border=true"/>
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com">
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=J3xLe1988B3lx0x2E6&theme=algolia&hide_border=true&date_format=%5BY%20%5DM%20j"/>
     </a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=J3xLe1988B3lx0x2E6&row=4&column=7&theme=algolia&no-frame=true"/>
-    </a>    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J3xLe1988B3lx0x2E6&hide_border=true&theme=algolia&layout=compact" align="center" width = "49%" />
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=J3xLe1988B3lx0x2E6&column=-1&theme=algolia&row=4&column=7"/>
+    </a>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=J3xLe1988B3lx0x2E6&hide_border=true&theme=algolia&layout=compact" align="center" width = "49%" />
 </p>
 </div>
 <div align="center"></div>  
