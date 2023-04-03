@@ -94,15 +94,15 @@ German (A1), Japanese (N5 ~ N4). Check my repositories and give your opinion I'l
 <div>
 <p align = "center">
     <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=J3xLe1988B3lx0x2E6&count_private=true&theme=algolia&show_icons=true&hide_border=true"/>
+        <img width="49%" alt="Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JohnKun136NVCP&count_private=true&theme=algolia&show_icons=true&hide_border=true"/>
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=J3xLe1988B3lx0x2E6&theme=algolia&hide_border=true&date_format=%5BY%20%5DM%20j"/>
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JohnKun136NVCP&theme=algolia&hide_border=true&date_format=%5BY%20%5DM%20j"/>
     </a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=J3xLe1988B3lx0x2E6&theme=algolia&row=4&column=7"/>
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=JohnKun136NVCP&theme=algolia&row=4&column=7"/>
     </a>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=J3xLe1988B3lx0x2E6&hide_border=true&theme=algolia&layout=compact" align="center" width = "49%" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JohnKun136NVCP&hide_border=true&theme=algolia&layout=compact" align="center" width = "49%" />
 </p>
 </div>
 <div align="center"></div>  
@@ -110,14 +110,14 @@ German (A1), Japanese (N5 ~ N4). Check my repositories and give your opinion I'l
 
 # My contributions game 🐍🎮
 
-![](https://raw.githubusercontent.com/J3xLe1988B3lx0x2E6/J3xLe1988B3lx0x2E6/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/J3xLe1988B3lx0x2E6/J3xLe1988B3lx0x2E6/output/github-contribution-grid-snake.svggh-light-mode-only)
+![](https://raw.githubusercontent.com/JohnKun136NVCP/JohnKun136NVCP/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/JohnKun136NVCP/JohnKun136NVCP/output/github-contribution-grid-snake.svggh-light-mode-only)
 <br>
 
 <h2 align ="center"> 📝 Contact me 📝</h2>
 <br> 
 <div align="center">
-<a href="https://github.com/J3xLe1988B3lx0x2E6" target="_blank">
+<a href="https://github.com/JohnKun136NVCP" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/JohnWilliamBn" target="_blank">
