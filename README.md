@@ -2,10 +2,9 @@
 <body>
 <br>
 <div align="center">
-<img src="https://38.media.tumblr.com/3a77a8e4e1332348d3761d20e83776bd/tumblr_nd5h91ToSz1rmmzqko1_500.gif">
+<img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="300px">
 </div>
 <br>
-
 
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
@@ -34,7 +33,7 @@ FavouriteSong: Sweeter than wine by NCW.
 FavouriteEquation: Fourier transform. 
 Hobbies: Gaming,Watching anime,Coding 
 while I am listening music.
-My Favourite singers (アイドル):  高橋李依 (Rie Takahashi) and  雨宮天 (Sora Amamiya). 🎤🎶🎼
+My Favourite singers (アイドル):  高橋李依 (Takahashi Rie) and  雨宮天 (Amamiya Sora). 🎤🎶🎼
 
 ```
 
@@ -64,23 +63,31 @@ My Favourite singers (アイドル):  高橋李依 (Rie Takahashi) and  雨宮�
 <h2 align="center"> 🔎Knowledge📖 </h2>
 </div>
 <div align = "center">
-<p align = "justify">I like to do some projects on Jupyter Notebook and solve some math problems or sometimes I use Machine Learning for explaining easy examples of Data Science. I love the challenges because I try to think other possibilities to solve some problems using different programming languages. <br></p>
+<p align = "justify">I worked using Jupyter Notebook for data analysis and AI focusing on social networks applying graphs theory. Nowdays, I focus on mobile develoment as Kotlin and Swift, also I get some badge about CCNA so I love cyber security.
+So I do my best in every specialtation area. My programming languages are Swift, C/C++, Python, Kotlin, Shell Script, and 
+little bit of CSS and Java Script. In other hand, My knowledge languages are Spanish (Native), English (B2 ~ C1), French (A2),
+German (A1), Japanese (N5 ~ N4). Check my repositories and give your opinion I'll do my best and be better every day. Finally, I love watching anime. <br></p>
 <p align = "center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="40" />  
+ 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="40" />  </p>
-<img src = "https://pa1.narvii.com/6676/28fc433fbc9f88242405a217ee62c0efad2b7a7f_hq.gif" width = "460px" align="center">
+<img src = "https://pa1.narvii.com/6676/28fc433fbc9f88242405a217ee62c0efad2b7a7f_hq.gif" width = "230px" align="left">
+<img src = "https://i.pinimg.com/originals/35/a2/f6/35a2f6fa3d483d0bbf0da20b589b5139.gif" width = "230px" align="right">
 </div>
-
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
 <h2 align = "center"> 📉 GitHub Stats</h2>
