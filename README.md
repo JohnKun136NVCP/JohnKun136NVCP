@@ -17,7 +17,7 @@
 ```csharp
 My Profile v2.0.2: 破壊「はかい」
 -------------------------------
-Username: John.
+Username: Yoshio Keima.
 WhoamI: physicist and Computer Engineer. Also musician (more or less).
 OS: Ubuntu 22.04.1 LTS.
 Shell: Bash.
