@@ -13,7 +13,7 @@
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
 ```zsh
-neofetch
+> neofetch
 ```
 
 <img align="left" src="img/itsukinakano.png" width="130px"/> 
