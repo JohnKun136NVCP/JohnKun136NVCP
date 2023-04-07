@@ -1,4 +1,8 @@
 <h1 align="center">Hi there I'm John <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
+<p align="right">
+    <img src="https://komarev.com/ghpvc/?username=JohnKun136NVCP&color=ff69b4&style=plastic&label=👀+Profile+Views">
+</p>
+
 <body>
 <br>
 <div align="center">
@@ -9,7 +13,7 @@
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
 ```zsh
-> neofetch
+neofetch
 ```
 
 <img align="left" src="img/itsukinakano.png" width="130px"/> 
@@ -20,7 +24,7 @@ My Profile v2.0.2: 破壊「はかい」
 Username: Yoshio Keima.
 WhoamI: physicist and Computer Engineer. Also musician (more or less).
 OS: Ubuntu 22.04.1 LTS.
-Shell: Bash.
+Shell: zsh 5.8
 Telegram: @yoshimakayaba.
 FavouriteAnime: 五等分の花嫁 (The Quintessential Quintuplets)💒📕👰🏻
 Loves: 中野五月 (Nakano Itsuki) (❤️ ω ❤️), Videogames 🎮, To play my piano 🎹.
@@ -145,4 +149,17 @@ German (A1), Japanese (N5 ~ N4). Check my repositories and give your opinion I'l
 <br>
 <br>
 <br>
+<br> 
+<br>
+<br>
+<br>
+<br>
+<br> 
+<br>
+<br>
+<br>
+<br>
 
+<h1 align="center">Support Me ♥️ </h1>
+
+<a href="https://www.buymeacoffee.com/johnkun29" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
