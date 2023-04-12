@@ -98,7 +98,7 @@ German (A1), Japanese (N5 ~ N4). Check my repositories and give your opinion I'l
     </a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img width="50%" align="left"alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=JohnKun136NVCP&theme=juicyfresh&row=4&column=4"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnKun136NVCP&hide_border=false&theme=codeSTACKr&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6" align="right" width = "46%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnKun136NVCP&hide_border=false&theme=codeSTACKr&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6" align="right" width = "41%" />
     </a>
 </p>
 </div>
