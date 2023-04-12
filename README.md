@@ -72,20 +72,10 @@ So I do my best in every specialtation area. My programming languages are Swift,
 little bit of CSS and Java Script. In other hand, My knowledge languages are Spanish (Native), English (B2 ~ C1), French (A2),
 German (A1), Japanese (N5 ~ N4). Check my repositories and give your opinion I'll do my best and be better every day. Finally, I love watching anime. <br></p>
 <p align = "center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="40" />  
- 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="40" />  </p>
-<img src = "https://pa1.narvii.com/6676/28fc433fbc9f88242405a217ee62c0efad2b7a7f_hq.gif" width = "230px" align="left">
-<img src = "https://i.pinimg.com/originals/35/a2/f6/35a2f6fa3d483d0bbf0da20b589b5139.gif" width = "230px" align="right">
+     <a href="https://skillicons.dev">
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=androidstudio,bash,linux,git,github,java,kotlin,latex,py,swift,c,cpp,css,html,tensorflow,aws&perline=8"alt="My Skills"/> 
+    </a>
+</p>
 </div>
 <br>
 <br>
@@ -95,24 +85,28 @@ German (A1), Japanese (N5 ~ N4). Check my repositories and give your opinion I'l
 <br>
 
 <h2 align = "center"> 📉 GitHub Stats</h2>
-<div>
+<div> 
 <p align = "center">
     <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JohnKun136NVCP&count_private=true&theme=algolia&show_icons=true&hide_border=true"/>
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=JohnKun136NVCP&count_private=true&theme=algolia&show_icons=true&hide_border=false"/>
+    </a>
+    <a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=JohnKun136NVCP&count_private=true&theme=algolia&show_icons=true&hide_border=false"/>
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JohnKun136NVCP&theme=algolia&hide_border=true&date_format=%5BY%20%5DM%20j"/>
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JohnKun136NVCP&theme=algolia&hide_border=false&date_format=%5BY%20%5DM%20j"/>
     </a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=JohnKun136NVCP&theme=algolia&row=4&column=7"/>
     </a>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JohnKun136NVCP&hide_border=true&theme=algolia&layout=compact" align="center" width = "49%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnKun136NVCP&hide_border=false&theme=algolia&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6" align="center" width = "49%" />
 </p>
 </div>
-<div align="center"></div>  
+<br>
 <br>
 
-# My contributions game 🐍🎮
+
+<h1 align="center"> My contributions game 🐍🎮</h1>
 
 ![](https://raw.githubusercontent.com/JohnKun136NVCP/JohnKun136NVCP/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/JohnKun136NVCP/JohnKun136NVCP/output/github-contribution-grid-snake.svggh-light-mode-only)
