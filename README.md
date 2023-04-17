@@ -104,17 +104,8 @@ German (A1), Japanese (N5 ~ N4). Check my repositories and give your opinion I'l
 </div>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 <h1 align="center"> My contributions game 🐍🎮</h1>
 
