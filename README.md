@@ -135,8 +135,7 @@ German (A1), Japanese (N5 ~ N4). Check my repositories and give your opinion I'l
 <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
 <div>
 <p>
-<img src="https://c.tenor.com/O097AH2p5EEAAAAC/nakano-itsuki-go-toubun-no-hanayome.gif" align="right" />
-<img src = "https://spotify-github-profile.vercel.app/api/view?uid=12174580645&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" align = "left" width="200px"/>
+    <img src="https://c.tenor.com/O097AH2p5EEAAAAC/nakano-itsuki-go-toubun-no-hanayome.gif" align="center" />
    </p>
   </div>
 <br> 
