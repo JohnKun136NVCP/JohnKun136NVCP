@@ -134,8 +134,8 @@ German (A1), Japanese (N5 ~ N4). Check my repositories and give your opinion I'l
 <div>
 <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
 <div>
-<p>
-    <img src="https://c.tenor.com/O097AH2p5EEAAAAC/nakano-itsuki-go-toubun-no-hanayome.gif" align="center" />
+<p align="center">
+    <img src="https://c.tenor.com/O097AH2p5EEAAAAC/nakano-itsuki-go-toubun-no-hanayome.gif"/>
    </p>
   </div>
 <br> 
