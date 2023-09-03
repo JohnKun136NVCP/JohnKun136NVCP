@@ -148,7 +148,8 @@ German (A1), Japanese (N5 ~ N4). Check my repositories and give your opinion I'l
 </a>
 <a href="https://linkedin.com/in/juan-ang-1307191b0" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  <br><img src = "https://media.tenor.com/ugPZnJf1TuEAAAAd/jashinchan-dropkick.gif" width = "400px"/>
+</a>  <br>
+<img align="center"src = "img/hatsunemikudrop.gif" width = "400px"/>
 </div>  
 
 
