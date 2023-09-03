@@ -160,7 +160,7 @@ German (A1), Japanese (N5 ~ N4). Check my repositories and give your opinion I'l
 <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
 <div>
 <p align="center">
-    <img src="https://media.tenor.com/pmjrDsHAQSYAAAAd/hatsunemiku-miku.gif"/>
+    <img src="https://media.tenor.com/pmjrDsHAQSYAAAAd/hatsunemiku-miku.gif" width="400px"/>
    </p>
   </div>
 <br> 
