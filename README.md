@@ -33,7 +33,7 @@
 > neofetch
 ```
 
-<img align="left" src="img/itsukigammer.png" width="250px"/> 
+<img align="left" src="img/itsukigammer.png" width="182px"/> 
 
 ```csharp
 My Profile v3.1.10: 復興「ふっこう」
