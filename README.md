@@ -33,10 +33,10 @@
 > neofetch
 ```
 
-<img align="left" src="img/itsukigammer.png" width="182px"/> 
+<img align="left" src="img/Kiyotaka_Ayanokouenji.webp" width="182px"/> 
 
 ```csharp
-My Profile v3.1.10: 復興「ふっこう」
+My Profile ver. 4.1.0: 思い出「おもいで」
 -------------------------------
 Username: Yoshio Keima 「吉尾桂馬」
 WhoamI: Physicist and Computer Engineer. Also musician (more or less)
