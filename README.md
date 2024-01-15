@@ -33,7 +33,7 @@
 > neofetch
 ```
 
-<img align="left" src="img/Kiyotaka_Ayanokouenji.webp" width="230px"/> 
+<img align="left" src="img/Kiyotaka_Ayanokouenji.webp" width="200px"/> 
 
 ```csharp
 My Profile ver. 4.1.0: 思い出「おもいで」
