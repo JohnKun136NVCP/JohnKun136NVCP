@@ -34,11 +34,10 @@
 ```
 
 <img align="left" src="img/bunny_girlaobuta1.png" style="transform:rotateY(180deg);" width="200px"/> 
-Monowasure no jiki de shishunki shōkōgun
 
 ```csharp
 My Profile ver. 4.2.3: 物忘れの時期で思春期症候群「ものわすれのじきでししゅんきしょうこうぐん」
---------------------------------------------------------------------∫
+--------------------------------------------------------------------
 Username: Yoshio Keima 「吉尾桂馬」
 WhoamI: Physicist and Computer Engineer. Also musician (more or less)
 OS: Garuda Linux "Raptor"
