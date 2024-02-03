@@ -33,7 +33,7 @@
 > neofetch
 ```
 
-<img align="left" src="img/bunny_girlaobuta1.png" style="transform:rotateY(180deg);" width="220px"/> 
+<img align="left" src="img/bunny_girlaobuta1.png" style="transform:rotateY(180deg);" width="210px"/> 
 
 ```csharp
 My Profile ver. 4.2.3: 物忘れの時期で思春期症候群「ものわすれのじきでししゅんきしょうこうぐん」
