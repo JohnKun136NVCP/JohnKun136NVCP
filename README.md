@@ -99,7 +99,7 @@ little bit of CSS and Java Script. In other hand, My knowledge languages are Spa
 German (A1), Japanese (N5 ~ N4). Check my repositories and give your opinion I'll do my best and be better every day. Finally, I love watching anime. <br></p>
 <p align = "center">
      <a href="https://skillicons.dev">
-        <img style="margin: 10px"src="https://skillicons.dev/icons?i=androidstudio,bash,linux,git,github,java,kotlin,latex,py,swift,c,cpp,css,html,tensorflow,aws&perline=8"alt="My Skills"/> 
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=androidstudio,bash,linux,git,github,gitlab,java,kotlin,latex,py,sklearn,swift,c,cpp,css,html,tensorflow,aws,haskell&perline=8"alt="My Skills"/> 
     </a>
 </p>
 </div>
