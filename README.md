@@ -24,10 +24,10 @@
 john@keima: ~/my_readme (main⚡)$ neofetch
 ```
 
-<img align="left" src="img/ao-buta/uzuki_hirokawa.png" width="205px"/> 
+<img align="left" src="img/Tokidoki-Bosotto-Russian/alisa.png" width="205px"/>
 
 ```csharp
-My Profile ver. 4.3.4: 自由の時期と思春期症候群「じゆうのじきでししゅんきしょうこうぐん」
+My Profile ver. 4.9.8: 感情は他の言語で表現される「かんじょうはほかのげんごでひょうげんされる」
 ----------------------------------------------------------------------------------------
 Username: Yoshio Keima 「吉尾桂馬」
 WhoamI: Physicist and Computer Engineer. Also musician (more or less)
@@ -39,9 +39,9 @@ Fav.Anime(2): からかい上手の高木さん (Karakai Jōzu no Takagi-san) �
 Loves: 中野五月 (Nakano Itsuki) (❤️ ω ❤️), videogames 🎮, music 🎹🎶🎵
 Pronouns: He/Him
 Location: Planet Kepler-452b
-Languages: C,C++, Python, Kotlin
-Hobbyes: Python, C, C++
-Learning: Swift, Kotlin, Go, Js,CSS and HTML
+Languages: C,C++, Python, Kotlin, Haskell
+Hobbyes: Python, C, C++, Go.
+Learning: Swift, Js, React, Haskell
 FavouriteSong: Sweeter than wine by NCW
 FavouriteEquation: Schrödinger equation
 Hobbies: Gaming,watching anime,coding while I am listening music
