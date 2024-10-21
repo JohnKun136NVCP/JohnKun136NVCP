@@ -24,12 +24,12 @@
 john@keima: ~/my_readme (main⚡)$ neofetch
 ```
 
-<img align="left" src="img/Tokidoki-Bosotto-Russian/alisa.png" width="205px"/>
+<img align="left" src="img/Tokidoki-Bosotto-Russian/alisa.png" width="270px"/>
 
 ```csharp
 My Profile ver. 4.9.8: 感情は他の言語で表現される「かんじょうはほかのげんごでひょうげんされる」
 ----------------------------------------------------------------------------------------
-Username: Yoshio Keima 「吉尾桂馬」
+Username: Keima Tatsuya「桂馬達也」
 WhoamI: Physicist and Computer Engineer. Also musician (more or less)
 OS: Garuda Linux 'Raptor' with Hyprland
 Shell: zsh 5.9
