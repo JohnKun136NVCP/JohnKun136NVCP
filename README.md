@@ -24,7 +24,7 @@
 john@keima: ~/my_readme (main⚡)$ neofetch
 ```
 
-<img align="left" src="img/TheEmminenceInShadow/cid.png" width="379px"/>
+<img align="left" src="img/TheEmminenceInShadow/cid.png" width="279px"/>
 
 ```csharp
 My Profile ver. 6.0.0: 何も真実ではなく、すべてが許されているのでございます。」
@@ -132,7 +132,7 @@ Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Min
     <h2 align="center"> 🛠️ I'm still learning or working on  </h2>
     <p align = "center">
          <a href="https://skillicons.dev">
-            <img style="margin: 10px"src="https://skillicons.dev/icons?i=bash,linux,git,github,gitlab,py,sklearn,c,cpp,css,html,nodejs,react,vuejs,mysql,django&perline=4"alt="My Skills"> 
+            <img style="margin: 10px"src="https://skillicons.dev/icons?i=bash,linux,git,github,gitlab,py,sklearn,c,cpp,css,html,nodejs,react,vuejs,mysql,django&perline=8"alt="My Skills"> 
         </a>
     </p>
 </div>
