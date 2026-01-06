@@ -27,7 +27,7 @@ john@keima: ~/my_readme (main⚡)$ neofetch
 <img align="left" src="img/TheEmminenceInShadow/cid.png" width="279px"/>
 
 ```csharp
-My Profile ver. 6.0.0: 何も真実ではなく、すべてが許されているのでございます。」
+My Profile ver. 6.0.0: 何も真実ではなく、すべてが許されているのでございます。
 ----------------------------------------------------------------------------------------
 Username: Keima Tatsuya「桂馬達也」
 WhoamI: Physicist. Programmer. Anime lover. Gamer. Musician.
